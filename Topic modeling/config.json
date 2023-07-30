@@ -1,0 +1,15 @@
+{
+    "path_train" : "/content/gdrive/MyDrive/TextMiningProject/cnn_dailymail/train.csv",
+    "path_val" : "/content/gdrive/MyDrive/TextMiningProject/cnn_dailymail/validation.csv",
+    "path_test" : "/content/gdrive/MyDrive/TextMiningProject/cnn_dailymail/test.csv",
+    "path_train_cleaned" : "/content/gdrive/MyDrive/TextMiningProj_Maugeri_Morelli/Data/train_cleaned.csv",
+    "path_val_cleaned" : "/content/gdrive/MyDrive/TextMiningProj_Maugeri_Morelli/Data/val_cleaned.csv",
+    "path_test_cleaned" : "/content/gdrive/MyDrive/TextMiningProj_Maugeri_Morelli/Data/test_cleaned.csv",
+    "path_train_preproc" : "/content/gdrive/MyDrive/TextMiningProject/cnn_dailymail/train_preproc.csv",
+    "path_val_preproc" : "/content/gdrive/MyDrive/TextMiningProject/cnn_dailymail/val_preproc.csv",
+    "path_test_preproc" : "/content/gdrive/MyDrive/TextMiningProject/cnn_dailymail/test_preproc.csv",
+    "path_train_preproc_withPunkt" : "/content/gdrive/MyDrive/TextMiningProject/cnn_dailymail/train_preproc_withPunkt.csv",
+    "path_val_preproc_withPunkt" : "/content/gdrive/MyDrive/TextMiningProject/cnn_dailymail/val_preproc_withPunkt.csv",
+    "path_test_preproc_withPunkt" : "/content/gdrive/MyDrive/TextMiningProject/cnn_dailymail/test_preproc_withPunkt.csv",
+    "path_texts_preproc_tm" : "/content/gdrive/MyDrive/TextMiningProj_Maugeri_Morelli/Topic modeling/texts_preproc.csv"
+}
